@@ -25,3 +25,18 @@ console.log('my log1');
 console.log('my log2');
 console.log('my log3');
 console.log('my log4');
+console.group()
+
+console.time('time starts now')
+
+// let dnamatch= 0
+// for(let i = 0; i<10000; i++){
+//     dnamatch++
+// }
+
+// console.timeEnd('time start now')
+
+console.count('chaicode');
+console.count('chaicode');
+console.count('chaicode');
+console.count('chaicode');
